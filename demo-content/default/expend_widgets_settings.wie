@@ -1,0 +1,192 @@
+{
+  "shop-sidebar": {
+    "woocommerce_product_categories-2": {
+      "title": "Product categories",
+      "orderby": "name",
+      "dropdown": 0,
+      "count": 0,
+      "hierarchical": 1,
+      "show_children_only": 0,
+      "hide_empty": 0,
+      "max_depth": ""
+    },
+    "woocommerce_price_filter-2": {
+      "title": "Filter by price"
+    },
+    "woocommerce_layered_nav-3": {
+      "title": "Filter by color",
+      "attribute": "color",
+      "display_type": "list",
+      "query_type": "and"
+    },
+    "woocommerce_layered_nav-4": {
+      "title": "Filter by size",
+      "attribute": "size",
+      "display_type": "list",
+      "query_type": "and"
+    },
+    "woocommerce_product_tag_cloud-2": {
+      "title": "Product tags"
+    },
+    "woocommerce_products-2": {
+      "title": "On-sale",
+      "number": 2,
+      "show": "onsale",
+      "orderby": "date",
+      "order": "desc",
+      "hide_free": 0,
+      "show_hidden": 0
+    }
+  },
+  "sidebar-1": {
+    "categories-1": {
+      "title": "",
+      "count": 0,
+      "hierarchical": 0,
+      "dropdown": 0
+    },
+    "recent-posts-1": {
+      "title": "",
+      "number": 8,
+      "show_date": false
+    },
+    "recent-comments-1": {
+      "title": "",
+      "number": 5
+    },
+    "archives-1": {
+      "title": "",
+      "count": 0,
+      "dropdown": 0
+    },
+    "meta-1": {
+      "title": ""
+    }
+  },
+  "header-widget": {
+    "woocommerce_widget_cart-1": {
+      "title": "Cart",
+      "hide_if_empty": 0
+    }
+  },
+  "header-search": {
+    "woocommerce_product_search-1": {
+      "title": ""
+    }
+  },
+  "header-category": {
+    "woocommerce_product_categories-3": {
+      "title": "Product categories",
+      "orderby": "name",
+      "dropdown": 0,
+      "count": 0,
+      "hierarchical": 1,
+      "show_children_only": 0,
+      "hide_empty": 0,
+      "max_depth": ""
+    }
+  },
+  "footer-newsletter-widget-area": {
+    "newsletterwidget-1": {
+      "title": "Subscribe for Join Us!",
+      "text": "<span class=\"other-text\">Subcribe to get information coupons.</span>",
+      "lists_layout": "",
+      "lists_empty_label": "",
+      "lists_field_label": ""
+    }
+  },
+  "first-footer-widget-area": {
+    "footeraboutwidget-1": {
+      "window_target": true,
+      "is_template_path": false,
+      "title": "Contact Information",
+      "imageSrc": "",
+      "description": "Lorem Ipsum has been the industrys standard my text ever since the 1500s, when annknown printer took a galley of it to matook a galley of ita type specimen book.",
+      "link_text": "",
+      "linkURL": "#",
+      "address": "60, 29th Street, San Francisco, CA 94110, United States",
+      "contact_text": "Call Us 24/7 Free",
+      "callus_text": "Call Us 24/7 Free",
+      "contact_number": "1800 6565 222"
+    },
+    "followmewidget-1": {
+      "title": "Follow Us",
+      "linkURL1": "#",
+      "linkURL2": "#",
+      "linkURL3": "#",
+      "linkURL4": "#",
+      "linkURL5": "#",
+      "linkURL6": "",
+      "linkURL7": "#",
+      "linkURL8": ""
+    }
+  },
+  "second-footer-widget-area": {
+    "staticlinkswidget-3": {
+      "title": "Get to Know Us",
+      "linktext1": "About Us",
+      "linktext2": "Careers",
+      "linktext3": "Press Releases",
+      "linktext4": "Creybit Cares",
+      "linktext5": "Gift a Smile",
+      "linktext6": "",
+      "linktext7": "",
+      "linktext8": "",
+      "linkURL1": "#",
+      "linkURL2": "#",
+      "linkURL3": "#",
+      "linkURL4": "#",
+      "linkURL5": "#",
+      "linkURL6": "",
+      "linkURL7": "",
+      "linkURL8": ""
+    }
+  },
+  "third-footer-widget-area": {
+    "staticlinkswidget-4": {
+      "title": "Connect With US",
+      "linktext1": "Facebook",
+      "linktext2": "Twitter",
+      "linktext3": "Instagram",
+      "linktext4": "Youtube",
+      "linktext5": "Linkdin",
+      "linktext6": "",
+      "linktext7": "",
+      "linktext8": "",
+      "linkURL1": "#",
+      "linkURL2": "#",
+      "linkURL3": "#",
+      "linkURL4": "#",
+      "linkURL5": "#",
+      "linkURL6": "",
+      "linkURL7": "",
+      "linkURL8": ""
+    }
+  },
+  "fourth-footer-widget-area": {
+    "staticlinkswidget-5": {
+      "title": "Let Us Help You",
+      "linktext1": "Your Account",
+      "linktext2": "Returns Centre",
+      "linktext3": "100% Purchase Protection",
+      "linktext4": "Cartbit App Download",
+      "linktext5": "Help",
+      "linktext6": "",
+      "linktext7": "",
+      "linktext8": "",
+      "linkURL1": "#",
+      "linkURL2": "#",
+      "linkURL3": "#",
+      "linkURL4": "#",
+      "linkURL5": "#",
+      "linkURL6": "",
+      "linkURL7": "",
+      "linkURL8": ""
+    }
+  },
+  "footer-bottom-widget-area": {
+    "accepted_payment_methods-1": {
+      "title": "Accepted Payment Methods"
+    }
+  }
+}

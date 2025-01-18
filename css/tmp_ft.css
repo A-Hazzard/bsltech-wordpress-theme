@@ -1,0 +1,335 @@
+/*footer*/
+@media screen and (max-width: 500px) {
+	footer {
+		width: 100%;
+		max-width: 2000px;
+		margin: 0 auto;
+		overflow: auto;
+		font-family: 'Kanit', sans-serif;
+	}
+	footer img.logo {
+		width: 100%;
+		display: block;
+	}
+	footer .wrap {
+		width: 100%;
+		padding: 50px 20px 50px 20px;
+		box-sizing: border-box;
+		overflow: auto;
+		height: auto;
+		background-image: -webkit-linear-gradient(-90deg, #025c0a 0, #002e22 100%);
+		background-image: -moz-linear-gradient(180deg, #025c0a 0, #002e22 100%);
+		background-image: linear-gradient(180deg, #025c0a 0, #002e22 100%);
+		background-position: 50% 50%;
+		-webkit-background-origin: padding-box;
+		background-origin: padding-box;
+		-webkit-background-clip: border-box;
+		background-clip: border-box;
+		-webkit-background-size: auto auto;
+		background-size: auto auto;
+	}
+	footer .wrap ul.links {
+		width: 100%;
+		float: left;
+		margin: 0 0 40px 0;
+		padding: 0;
+	}
+	footer .wrap ul.links li.title {
+		font-weight: bold;
+		font-size: 20px;
+		color: white;
+	}
+	footer .wrap ul.links li {
+		list-style-type: none;
+		color: #ffff75;
+		text-align: center;
+	}
+	footer .wrap ul.links li a {
+		text-decoration: none;
+		color: white;
+		text-align: center;
+		width: 100%;
+		display: block;
+		color: #ffff75;
+		font-size: 18px;
+		padding: 5px 0;
+		box-sizing: border-box;
+	}
+	footer .wrap .fcy_dvd {
+		width: 100%;
+		display: inline-block;
+		height: 2px;
+		clear: both;
+		margin: 20px 0;
+		background-image: -webkit-linear-gradient(0deg, rgba(0, 162, 0, 0) 0, #00a200 20%, #00a200 50%, #00a200 80%, rgba(0, 162, 0, 0) 100%);
+		background-image: -moz-linear-gradient(90deg, rgba(0, 162, 0, 0) 0, #00a200 20%, #00a200 50%, #00a200 80%, rgba(0, 162, 0, 0) 100%);
+		background-image: linear-gradient(90deg, rgba(0, 162, 0, 0) 0, #00a200 20%, #00a200 50%, #00a200 80%, rgba(0, 162, 0, 0) 100%);
+		background-position: 50% 50%;
+		-webkit-background-origin: padding-box;
+		background-origin: padding-box;
+		-webkit-background-clip: border-box;
+		background-clip: border-box;
+		-webkit-background-size: auto auto;
+		background-size: auto auto;
+	}
+	footer .wrap ul.social_links {
+		width: 250px;
+		padding: 0 10px;
+		box-sizing: border-box;
+		margin: 0 auto;
+		overflow: auto;
+	}
+	footer .wrap ul.social_links li {
+		list-style-type: none;
+		text-align: center;
+	}
+	footer .wrap ul.social_links li.title {
+		color: white;
+		font-size: 25px;
+		margin: 15px 0;
+	}
+	footer .wrap ul.social_links li.social {
+		float: left;
+		width: 100%;
+		overflow: auto;
+		padding: 5px 15px;
+		box-sizing: border-box;
+		display: inline-block;
+	}
+	footer .wrap ul.social_links li a {
+		text-decoration: none;
+		color: white;
+		text-align: center;
+		width: 100%;
+		display: block;
+		color: #ffff75;
+		overflow: auto;
+	}
+	footer .wrap ul.social_links li a img {
+		width: 100%;
+		display: block;
+	}
+}
+@media screen and (min-width: 501px) and (max-width: 800px) {
+	footer {
+		width: 100%;
+		max-width: 2000px;
+		margin: 0 auto;
+		overflow: auto;
+		font-family: 'Kanit', sans-serif;
+	}
+	footer img.logo {
+		width: 100%;
+		display: block;
+	}
+	footer .wrap {
+		width: 100%;
+		padding: 50px 20px 50px 20px;
+		box-sizing: border-box;
+		overflow: auto;
+		height: auto;
+		background-image: -webkit-linear-gradient(-90deg, #025c0a 0, #002e22 100%);
+		background-image: -moz-linear-gradient(180deg, #025c0a 0, #002e22 100%);
+		background-image: linear-gradient(180deg, #025c0a 0, #002e22 100%);
+		background-position: 50% 50%;
+		-webkit-background-origin: padding-box;
+		background-origin: padding-box;
+		-webkit-background-clip: border-box;
+		background-clip: border-box;
+		-webkit-background-size: auto auto;
+		background-size: auto auto;
+	}
+	footer .wrap ul.links {
+		width: 100%;
+		float: left;
+		margin: 0 0 40px 0;
+		padding: 0;
+	}
+	footer .wrap ul.links li.title {
+		font-weight: bold;
+		font-size: 20px;
+		color: white;
+	}
+	footer .wrap ul.links li {
+		list-style-type: none;
+		color: #ffff75;
+		text-align: center;
+	}
+	footer .wrap ul.links li a {
+		text-decoration: none;
+		color: white;
+		text-align: center;
+		width: 100%;
+		display: block;
+		color: #ffff75;
+		font-size: 18px;
+		padding: 5px 0;
+		box-sizing: border-box;
+	}
+	footer .wrap .fcy_dvd {
+		width: 100%;
+		display: inline-block;
+		height: 2px;
+		clear: both;
+		margin: 20px 0;
+		background-image: -webkit-linear-gradient(0deg, rgba(0, 162, 0, 0) 0, #00a200 20%, #00a200 50%, #00a200 80%, rgba(0, 162, 0, 0) 100%);
+		background-image: -moz-linear-gradient(90deg, rgba(0, 162, 0, 0) 0, #00a200 20%, #00a200 50%, #00a200 80%, rgba(0, 162, 0, 0) 100%);
+		background-image: linear-gradient(90deg, rgba(0, 162, 0, 0) 0, #00a200 20%, #00a200 50%, #00a200 80%, rgba(0, 162, 0, 0) 100%);
+		background-position: 50% 50%;
+		-webkit-background-origin: padding-box;
+		background-origin: padding-box;
+		-webkit-background-clip: border-box;
+		background-clip: border-box;
+		-webkit-background-size: auto auto;
+		background-size: auto auto;
+	}
+	footer .wrap ul.social_links {
+		width: 250px;
+		padding: 0 10px;
+		box-sizing: border-box;
+		margin: 0 auto;
+		overflow: auto;
+	}
+	footer .wrap ul.social_links li {
+		list-style-type: none;
+		text-align: center;
+	}
+	footer .wrap ul.social_links li.title {
+		color: white;
+		font-size: 25px;
+		margin: 15px 0;
+	}
+	footer .wrap ul.social_links li.social {
+		float: left;
+		width: 100%;
+		overflow: auto;
+		padding: 5px 15px;
+		box-sizing: border-box;
+		display: inline-block;
+	}
+	footer .wrap ul.social_links li a {
+		text-decoration: none;
+		color: white;
+		text-align: center;
+		width: 100%;
+		display: block;
+		color: #ffff75;
+		overflow: auto;
+	}
+	footer .wrap ul.social_links li a img {
+		width: 100%;
+		display: block;
+	}
+}
+@media screen and (min-width: 801px) {
+	footer {
+		width: 100%;
+		max-width: 2000px;
+		margin: 0 auto;
+		overflow: auto;
+		font-family: 'Kanit', sans-serif;
+	}
+	footer img.logo {
+		width: 100%;
+		display: block;
+	}
+	footer .wrap {
+		width: 100%;
+		padding: 0 18% 50px 18%;
+		box-sizing: border-box;
+		overflow: auto;
+		height: auto;
+		background-image: -webkit-linear-gradient(-90deg, #025c0a 0, #002e22 100%);
+		background-image: -moz-linear-gradient(180deg, #025c0a 0, #002e22 100%);
+		background-image: linear-gradient(180deg, #025c0a 0, #002e22 100%);
+		background-position: 50% 50%;
+		-webkit-background-origin: padding-box;
+		background-origin: padding-box;
+		-webkit-background-clip: border-box;
+		background-clip: border-box;
+		-webkit-background-size: auto auto;
+		background-size: auto auto;
+	}
+	footer .wrap ul.links {
+		width: 33.333%;
+		float: left;
+		margin: 0;
+		padding: 0;
+		clear: none;
+	}
+	footer .wrap ul.links li.title {
+		font-weight: bold;
+		font-size: 22px;
+		color: white;
+	}
+	footer .wrap ul.links li {
+		list-style-type: none;
+		color: #ffff75;
+		text-align: center;
+	}
+	footer .wrap ul.links li a {
+		text-decoration: none;
+		color: white;
+		text-align: center;
+		width: 100%;
+		display: block;
+		color: #ffff75;
+		font-size: 20px;
+		padding: 5px 0;
+		box-sizing: border-box;
+	}
+	footer .wrap .fcy_dvd {
+		width: 100%;
+		display: inline-block;
+		height: 2px;
+		clear: both;
+		margin: 20px 0;
+		background-image: -webkit-linear-gradient(0deg, rgba(0, 162, 0, 0) 0, #00a200 20%, #00a200 50%, #00a200 80%, rgba(0, 162, 0, 0) 100%);
+		background-image: -moz-linear-gradient(90deg, rgba(0, 162, 0, 0) 0, #00a200 20%, #00a200 50%, #00a200 80%, rgba(0, 162, 0, 0) 100%);
+		background-image: linear-gradient(90deg, rgba(0, 162, 0, 0) 0, #00a200 20%, #00a200 50%, #00a200 80%, rgba(0, 162, 0, 0) 100%);
+		background-position: 50% 50%;
+		-webkit-background-origin: padding-box;
+		background-origin: padding-box;
+		-webkit-background-clip: border-box;
+		background-clip: border-box;
+		-webkit-background-size: auto auto;
+		background-size: auto auto;
+	}
+	footer .wrap ul.social_links {
+		width: 100%;
+		padding: 0 30%;
+		box-sizing: border-box;
+		margin: 0 auto;
+		overflow: auto;
+	}
+	footer .wrap ul.social_links li {
+		list-style-type: none;
+		text-align: center;
+	}
+	footer .wrap ul.social_links li.title {
+		color: white;
+		font-size: 25px;
+		margin: 15px 0;
+	}
+	footer .wrap ul.social_links li.social {
+		float: left;
+		width: 50%;
+		overflow: auto;
+		padding: 5px 15px;
+		box-sizing: border-box;
+		display: inline-block;
+	}
+	footer .wrap ul.social_links li a {
+		text-decoration: none;
+		color: white;
+		text-align: center;
+		width: 100%;
+		display: block;
+		color: #ffff75;
+		overflow: auto;
+	}
+	footer .wrap ul.social_links li a img {
+		width: 100%;
+		display: block;
+	}
+}
