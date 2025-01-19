@@ -34,10 +34,10 @@
 	<div class="wrap">
 		<ul class="links">
 			<li class="title">Shopping</li>
-			<li><a href="https://bsltechtt.com/shop-2/">Newest Additions</a></li>
+<!-- 			<li><a href="https://bsltechtt.com/shop-2/">Newest Additions</a></li> -->
 			<li><a href="https://bsltechtt.com/product-category/apple-accessories/">Accessories</a></li>
 			<li><a href="https://bsltechtt.com/product-category/samsung-accessorries/">Samsung Accessories</a></li>
-			<li><a href="https://bsltechtt.com/product-category/electronic-accessories/">Miscellaneous</a></li>
+<!-- 			<li><a href="https://bsltechtt.com/product-category/electronic-accessories/">Miscellaneous</a></li> -->
 			<li><a href="https://bsltechtt.com/custom-cases/">Custom iPhone Cases</a></li>
 <!--
 			<li><a href="">Promotions</a></li>
@@ -59,7 +59,7 @@
 			<li><a href="">Terms &amp; Conditions</a></li>
 			<li><a href="">Privacy Policy</a></li>
 -->
-			<li><a href="https://bsltechtt.com/sell-device/">Sell Device</a></li>
+<!-- 			<li><a href="https://bsltechtt.com/sell-device/">Sell Device</a></li> -->
 			<li><a href="https://www.facebook.com/bsltech/">Facebook</a></li>
 			<li><a href="https://www.instagram.com/bsltechtt/">Instagram</a></li>
 			<li><a href="https://bsltechtt.com/?faq_categories=general-questions>">FAQ</a></li>

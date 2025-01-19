@@ -80,10 +80,11 @@
 		</div>
 		<ul>
 			<li><a href="https://bsltechtt.com/product-category/customized-cases/">Customized iPhone Cases</a></li>
+			<li><a href="https://bsltechtt.com/product-category/iphone-cases/">Phone Cases</a></li>
 			<li><a href="https://bsltechtt.com/product-category/apple-open-box-devices/">Open Box Iphones</a></li>
 			<li><a href="https://bsltechtt.com/product-category/apple-accessories/">Apple Accessories</a></li>
 			<!-- <li><a href="https://bsltechtt.com/product-category/samsung-accessorries/">Samsung Accessories</a></li> -->
-			<li><a href="https://bsltechtt.com/product-category/electronic-accessories/">Miscellaneous</a></li>
+<!-- 			<li><a href="https://bsltechtt.com/product-category/electronic-accessories/">Miscellaneous</a></li> -->
 			<li class="yellow_highlight"><a href="https://bsltechtt.com/checkout/">Checkout</a></li>
 		</ul>
 	</div>
@@ -132,10 +133,11 @@
 			<nav>
 				<ul>
 					<li><a href="https://bsltechtt.com/product-category/customized-cases/">Customized iPhone Cases</a></li>
+					<li><a href="https://bsltechtt.com/product-category/iphone-cases/">Phone Cases</a></li>
 					<li><a href="https://bsltechtt.com/product-category/apple-open-box-devices/">Open Box Iphones</a></li>
 					<li><a href="https://bsltechtt.com/product-category/apple-accessories/">Apple Accessories</a></li>
 					<!-- <li><a href="https://bsltechtt.com/product-category/samsung-accessorries/">Samsung Accessories</a></li> -->
-					<li><a href="https://bsltechtt.com/product-category/electronic-accessories/">Miscellaneous</a></li>
+<!-- 					<li><a href="https://bsltechtt.com/product-category/electronic-accessories/">Miscellaneous</a></li> -->
 					<li class="yellow_highlight"><a href="https://bsltechtt.com/checkout/">Checkout</a></li>
 <!--					<li><a href="https://bsltechtt.com/about-us/">About BSL Tech</a></li>-->
 				</ul>
